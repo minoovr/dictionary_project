@@ -1,4 +1,22 @@
-form {
-  margin: auto;
-  width: 190px;
+body {
+  color: aliceblue;
+}
+a {
+  color: #66d2e6;
+}
+
+input {
+  padding: 6px 4px;
+  border-radius: 6px;
+  width: 100%;
+}
+section {
+  background-color: #ef495f;
+  padding: 30px;
+  margin-bottom: 30px;
+  border-radius: 6px;
+  box-shadow: 0 10px 10px rgb(0 0 0 /10%);
+}
+h1 {
+  margin-bottom: 20px;
 }

@@ -1,0 +1,9 @@
+.Phonetics a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 25px;
+}
+.Phonetics a:hover {
+  color: white;
+  transition: all 150ms ease-in-out;
+}
